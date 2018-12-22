@@ -1,2 +1,2 @@
-# Bubble-sorting-flow-chart
+# Bubble sort flow chart
  冒泡排序流程图
